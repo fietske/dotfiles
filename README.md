@@ -8,5 +8,5 @@ on old machine:
 - 'mv ~/.yabairc ~/dotfiles/yabairc; ln -s ~/dotfiles/yabairc ~/.yabairc'
 
 on new machine:
-- git clone https://github.com/fietske/dotfiles.git ~/dotfiles
+- 'git clone https://github.com/fietske/dotfiles.git ~/dotfiles'
 - create above symlinks
