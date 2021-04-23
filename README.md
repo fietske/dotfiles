@@ -6,6 +6,7 @@ on old machine:
 - 'mv ~/.tmux.conf ~/dotfiles/tmux.conf; ln -s ~/dotfiles/tmux.conf ~/.tmux.conf'
 - 'mv ~/.vimrc ~/dotfiles/vimrc; ln -s ~/dotfiles/vimrc ~/.vimrc'
 - 'mv ~/.yabairc ~/dotfiles/yabairc; ln -s ~/dotfiles/yabairc ~/.yabairc'
+- 'mv ~/.alacritty.yml ~/dotfiles/alacritty.yml; ln -s ~/dotfiles/alacritty.yml ~/.alacritty.yml'
 
 on new machine:
 - 'git clone https://github.com/fietske/dotfiles.git ~/dotfiles'
