@@ -2,7 +2,7 @@
 
 # inspiration: https://coderwall.com/p/ynu8xq/keep-your-dotfiles-in-git
 
-# on old machine: 
+# on old machine:
 
 # mv ~/.zshrc ~/dotfiles/zshrc
 # ln -s ~/dotfiles/zshrc ~/.zshrc
@@ -19,6 +19,6 @@
 # mv ~/.yabairc ~/dotfiles/yabairc
 # ln -s ~/dotfiles/yabairc ~/.yabairc
 
-# on new machine: 
+# on new machine:
 # - git clone https://github.com/fietske/dotfiles.git ~/dotfiles
 # - create above symlinks
