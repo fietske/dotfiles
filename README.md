@@ -1,3 +1,5 @@
+# computers not inventoried: add divisional ownership to non-inventoried SNOW-generated computers
+
 # dotfiles
 
 # inspiration: https://coderwall.com/p/ynu8xq/keep-your-dotfiles-in-git
