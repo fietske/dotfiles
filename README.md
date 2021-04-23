@@ -1,4 +1,5 @@
 inspiration: https://coderwall.com/p/ynu8xq/keep-your-dotfiles-in-git
+
 on old machine:
 - 'mv ~/.zshrc ~/dotfiles/zshrc; ln -s ~/dotfiles/zshrc ~/.zshrc'
 - 'mv ~/.muttrc ~/dotfiles/muttrc; ln -s ~/dotfiles/muttrc ~/.muttrc'
