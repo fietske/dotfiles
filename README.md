@@ -11,3 +11,4 @@ on old machine:
 on new machine:
 - 'git clone https://github.com/fietske/dotfiles.git ~/dotfiles'
 - create above symlinks
+# dotfiles
