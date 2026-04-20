@@ -1,0 +1,58 @@
+# --- General Settings ---
+[general]
+import = []                # Add external theme paths here
+live_config_reload = true  # Apply changes instantly on save
+
+# --- Window Styling ---
+[window]
+padding = { x = 12, y = 12 }  # Balanced "breathable" margins
+dynamic_padding = true        # Spreads padding evenly during resize
+opacity = 0.95                # Slight transparency for modern look
+blur = true                   # Enables background blur (macOS/KDE/Gnome)
+
+[window.dimensions]
+columns = 100
+lines = 28
+
+# --- Typography ---
+# Recommend installing 'JetBrainsMono Nerd Font' for full icon support
+[font]
+size = 12.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+# --- Colors (Tokyo Night Storm) ---
+# Community favorite for clarity and speed
+[colors.primary]
+background = "#24283b"
+foreground = "#a9b1d6"
+
+[colors.normal]
+black   = "#32344a"
+red     = "#f7768e"
+green   = "#9ece6a"
+yellow  = "#e0af68"
+blue    = "#7aa2f7"
+magenta = "#ad8ee6"
+cyan    = "#449dab"
+white   = "#787c99"
+
+# --- Performance & Interaction ---
+[scrolling]
+history = 10000     # High scrollback without lag
+multiplier = 3      # Faster scrolling speed
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+vi_mode_style = { shape = "Block" } # Distinct style for Vi mode
+
+[selection]
+save_to_clipboard = true # Auto-copy on select for efficiency
+                                                                                                
+
